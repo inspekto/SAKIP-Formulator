@@ -1,0 +1,8 @@
+{
+  "name": "Remix SAKIP Recommendation Formulator",
+  "description": "Aplikasi khusus auditor dan APIP untuk evaluasi AKIP/SAKIP Perangkat Daerah, gap analysis, dan formulasi rekomendasi formal berbasis database peraturan serta AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
